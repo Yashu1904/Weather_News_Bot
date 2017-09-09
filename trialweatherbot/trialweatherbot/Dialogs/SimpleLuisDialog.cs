@@ -18,7 +18,7 @@ using trialweatherbot;
 namespace trialweatherbot.Dialogs
 {
 
-    [LuisModel("dbb42685-9826-4a0a-ab1a-3c8e958fc34f", "ac3bc87867f148e982c6c9105fc35446")]
+    [LuisModel("7cc514ee-32b5-428a-a9da-aed348d38194", "6a0ea28a56a6489e8d4de0240402883d", domain: "southeastasia.api.cognitive.microsoft.com")]
     [Serializable]
     public class SimpleLuisDialog : LuisDialog<object>
     {
@@ -141,7 +141,7 @@ namespace trialweatherbot.Dialogs
             HttpClient httpClient = new HttpClient()
             {
                 DefaultRequestHeaders = {
- {"Ocp-Apim-Subscription-Key", "57efd08127c24467a65f2a5067986897"},
+ {"Ocp-Apim-Subscription-Key", "4080bdb4fd004d3896cf911d558174da"},
  {"Accept", "application/json"}
  }
             };
@@ -171,7 +171,7 @@ namespace trialweatherbot.Dialogs
 
                 if (bingNews == null || bingNews.totalEstimatedMatches == 0)
                 {
-                    reply.Text = "Sorry, couldn't find any news about '" + locEntity.Entity ;
+                   await context.PostAsync( "Sorry, couldn't find any news about '" + locEntity.Entity );
                 }
                 else
                 {
@@ -196,14 +196,19 @@ namespace trialweatherbot.Dialogs
                         };
                         reply.Attachments.Add(attachment.ToAttachment());
                     }
+                    await context.PostAsync(reply);
+
+
                 }
             }
 
-            else
+            else if (result.Query.Contains("news")|| result.Query.Contains("News"))
             {
-                reply.Text = $"I couldn't understand what you're looking for. ";
+                await context.PostAsync("Enter in a proper format like news at hyderabad or search for news in hyderabad");             }
+            else 
+            {
+               await context.PostAsync( $"I couldn't understand what you're looking for. ");
             }
-            await context.PostAsync(reply);
             context.Wait(this.MessageReceived);
 
         }

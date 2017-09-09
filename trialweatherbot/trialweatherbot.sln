@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trialweatherbot", "trialweatherbot\trialweatherbot.csproj", "{14179C3C-6715-4508-AD8C-2507F0A9269E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIXULib", "..\..\..\..\Downloads\apixu-csharp-master\apixu-csharp-master\APIXULib\APIXULib.csproj", "{4951894A-7F30-40A8-B151-BDACFA570D25}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIXULib", "C:\Users\Akhila\Downloads\apixu-csharp-master\apixu-csharp-master\APIXULib\APIXULib.csproj", "{4951894A-7F30-40A8-B151-BDACFA570D25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

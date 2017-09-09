@@ -41,3 +41,46 @@ c:\users\akhila\documents\visual studio 2015\Projects\trialweatherbot\trialweath
 c:\users\akhila\documents\visual studio 2015\Projects\trialweatherbot\trialweatherbot\bin\AdaptiveCards.dll
 c:\users\akhila\documents\visual studio 2015\Projects\trialweatherbot\trialweatherbot\bin\APIXULib.dll
 c:\users\akhila\documents\visual studio 2015\Projects\trialweatherbot\trialweatherbot\bin\APIXULib.pdb
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\Bot Application.dll.config
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\Bot Application.dll
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\Bot Application.pdb
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\AdaptiveCards.dll
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\APIXULib.dll
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\Autofac.dll
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\Chronic.dll
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\Microsoft.Bot.Builder.Autofac.dll
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\Microsoft.Bot.Builder.dll
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\Microsoft.Bot.Connector.dll
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\Microsoft.Rest.ClientRuntime.dll
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\Microsoft.WindowsAzure.Configuration.dll
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\Newtonsoft.Json.dll
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\System.IdentityModel.Tokens.Jwt.dll
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\System.Net.Http.Formatting.dll
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\System.Web.Http.dll
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\System.Web.Http.WebHost.dll
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\APIXULib.pdb
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\Autofac.xml
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\Microsoft.Bot.Builder.xml
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\Microsoft.Bot.Builder.Autofac.xml
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\Microsoft.Bot.Connector.xml
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\Microsoft.WindowsAzure.Configuration.xml
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\Newtonsoft.Json.xml
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\System.IdentityModel.Tokens.Jwt.xml
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\System.Net.Http.Formatting.xml
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\System.Web.Http.xml
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\System.Web.Http.WebHost.xml
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\ar\Microsoft.Bot.Builder.resources.dll
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\cs\Microsoft.Bot.Builder.resources.dll
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\en\Microsoft.Bot.Builder.resources.dll
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\es\Microsoft.Bot.Builder.resources.dll
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\fa\Microsoft.Bot.Builder.resources.dll
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\fr\Microsoft.Bot.Builder.resources.dll
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\ja\Microsoft.Bot.Builder.resources.dll
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\ru\Microsoft.Bot.Builder.resources.dll
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\obj\Release\trialweatherbot.csprojResolveAssemblyReference.cache
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\obj\Release\Bot Application.dll
+F:\Weather_Bot\Weather_News_Bot\trialweatherbot\trialweatherbot\obj\Release\Bot Application.pdb
